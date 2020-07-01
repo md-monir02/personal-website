@@ -36,7 +36,8 @@ p{
 }
 section{
     height: 500px;
-    padding: 150px;
+    padding: 80px;
+   
     
 }
 .link-button{
@@ -77,12 +78,9 @@ section{
 
 .new{
     text-align: center;
-    font-size: 20px;
-    
-    
-}
+    font-size: 20px;}
 #big{
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .box{
@@ -91,7 +89,7 @@ section{
     border: 1px solid rgb(216, 93, 171);
     border-radius: 10px;
     background-color: rgb(223, 73, 135);
-    width: 700px;
+    width: 500px;
     height: 150px;
     margin: auto;
    
@@ -100,9 +98,11 @@ section{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-top: auto;
+    margin-top:100px;
     
 }
+    
+
 .color-highlight{
     color: lightslategray;
     
@@ -110,7 +110,7 @@ section{
 .single-experiance{
     box-shadow: 10px 10px 40px gray;
     border-radius:  5px;
-    height: 80;
+    height: 500px;
     background-color: rgba(224, 195, 205, 0.226);
 }
 
